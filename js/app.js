@@ -1,0 +1,1 @@
+app = angular.module('realestate-plus', ['ui.bootstrap']);
